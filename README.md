@@ -13,19 +13,19 @@ Focuses on Main activites in CDM.
 
 Study start Up:
 > Study Design -->
-> eCRF Design
-> Edit checks
-> Derivation checks
-> UAT testing
+> eCRF Design -->
+> Edit checks -->
+> Derivation checks -->
+> UAT testing 
 
 
 Study Conduct: 
-> Data Entry
-> Data Validation
-> Data Coding
-> SAE Reconciliation
-> Lab Reconciliation
+> Data Entry -->
+> Data Validation -->
+> Data Coding -->
+> SAE Reconciliation -->
+> Lab Reconciliation 
 
 Study Close out:
-> Database Lock
+> Database Lock -->
 > Statistcial Report generation 
