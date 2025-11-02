@@ -11,7 +11,7 @@ Focuses on Main activites in CDM.
 3) Study Close out*** 
 
 
-Study start Up:
+Study Start up:
 > Study Design -->
 > eCRF Design -->
 > Edit checks -->
