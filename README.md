@@ -12,7 +12,7 @@ Focuses on Main activites in CDM.
 
 
 Study start Up:
-> Study Design
+> Study Design -->
 > eCRF Design
 > Edit checks
 > Derivation checks
